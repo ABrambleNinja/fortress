@@ -6,7 +6,6 @@
 ##High priority
 - Add seperate class, because handler is doing too much and results in unexpected things (![Finished](http://abn-cdn.github.io/finished.png))
 - Work on getting color support (why is the chat green...) (![Finished](http://abn-cdn.github.io/finished.png))
-- Use RegEx to filter out color codes (![Not started yet](http://abn-cdn.github.io/notstarted.png))
 - Use RegEx to add symbols (like `~GREEN`) to change colors (Admins only) (![Not started yet](http://abn-cdn.github.io/notstarted.png))
 - Fix the backspace character (`\b`) (![Not started yet](http://abn-cdn.github.io/notstarted.png))
 - Write comments throughout the program (![Finished](http://abn-cdn.github.io/finished.png))
@@ -18,4 +17,4 @@
 - Add console interface (![Work in progress](http://abn-cdn.github.io/wip.png))
 
 ##Low priority
-- Add Bukkit (![Work in progress](http://abn-cdn.github.io/wip.png))
+- Add Bukkit-like plugin support (![Work in progress](http://abn-cdn.github.io/wip.png))
